@@ -20,6 +20,8 @@ extension_dir = "D:\php-5.6.40\ext"
 extension=php_com_dotnet.dll
 ```
 
+3. Excel 啟用 選項 > 信任中心 > 信任中心設定 > 巨集設定 > 信任存取VBA 專案物件模型
+
 #### 執行
 ```
 php.exe app.php
